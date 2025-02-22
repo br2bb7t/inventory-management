@@ -4,6 +4,13 @@
 
 Este proyecto consiste en una aplicación web para gestionar un inventario de productos. La aplicación tiene un frontend desarrollado en React y un backend desarrollado en Node.js. Además, el proyecto está configurado para ser ejecutado en contenedores Docker, lo que facilita su despliegue y ejecución en cualquier entorno.
 
+---
+![image](https://github.com/user-attachments/assets/f74fdca8-fff8-442c-b893-62e5005d98ec)
+
+---
+
+![image](https://github.com/user-attachments/assets/f878770f-e990-44ae-ad7e-7a2bed16194a)
+
 
 ---
 
